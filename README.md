@@ -1,6 +1,6 @@
 <h1>Hi there :wave: </h1>
 <img src="qqwe.jpg">
-<h3><b>I'm <h2>Shubham Selakoti</h2>, a Competitive Programmer and Full Stack Developer. Currently, I am a CSE UnderGrad.</b></h3>
+<h3><b>I'm <h2 style="display:inline-block;">Shubham Selakoti</h2>, a Competitive Programmer and Full Stack Developer. Currently, I am a CSE UnderGrad.</b></h3>
 
 <h1> About Me </h1>
 <hr>
